@@ -5,13 +5,3 @@
 .logo{
     width: 4.65rem;
 }
-
-@media screen and (max-width: 169PX)  {
-    .logo{
-        width: 3.65rem;
-    }
-
-    .header{
-        width: 150%;
-    }
-}
